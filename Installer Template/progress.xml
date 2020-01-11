@@ -1,0 +1,8 @@
+#change the button.json to your button configuration OR use the existing button.dll 
+#no need to change this xml if you use the dll
+[
+	progress;button.dll
+		"start";; 
+				install.cfg
+install.exe
+]
